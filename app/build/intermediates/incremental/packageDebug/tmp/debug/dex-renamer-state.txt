@@ -1,0 +1,4 @@
+#Fri Feb 02 13:13:24 EST 2024
+base.0=/Users/tianlezhu/Desktop/lab2/mb-lab2-master/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
